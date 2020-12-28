@@ -1,9 +1,7 @@
 ## About me
 I am currently a Ph.D. student in University of Electronic Science and Technology of China (UESTC), majoring in computer science. I focus on the research and development of automated methods for medical image analysis in the field of artificial intelligence.
 
-## Publications
-### AI-based Medical Image Analysis
-- Zeng, H., Hu, X., Chen, L., Zhou, C., & **Wen, Y**. _Weakly Supervised Learning of Recurrent Residual ConvNets for Pancreas Segmentation in CT Scans._ ```In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)``` (pp. 1409-1415). (2019, November) [[Google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Weakly+Supervised+Learning+of+Recurrent+Residual+ConvNets+for+Pancreas+Segmentation+in+CT+Scans&btnG=)
+## [Publications](https://wenyanger.github.io/publications.html)
 
 ### AI Application
 
