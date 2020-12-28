@@ -2,7 +2,7 @@
 I am currently a Ph.D. student in University of Electronic Science and Technology of China (UESTC), majoring in computer science. I focus on the research and development of automated methods for medical image analysis in the field of artificial intelligence.
 
 ## Publications
-- Zeng, H., Hu, X., Chen, L., Zhou, C., & **Wen, Y**. _Weakly Supervised Learning of Recurrent Residual ConvNets for Pancreas Segmentation in CT Scans._ <font color=#0099ff>In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</font> (pp. 1409-1415). (2019, November)
+- Zeng, H., Hu, X., Chen, L., Zhou, C., & **Wen, Y**. _Weakly Supervised Learning of Recurrent Residual ConvNets for Pancreas Segmentation in CT Scans._ <font color=#0099ff> In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) </font> (pp. 1409-1415). (2019, November)
 
 ## Welcome to GitHub Pages
 
