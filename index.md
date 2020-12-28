@@ -3,7 +3,7 @@ I am currently a Ph.D. student in University of Electronic Science and Technolog
 
 ## Publications
 ### AI-based Medical Image Analysis
-- Zeng, H., Hu, X., Chen, L., Zhou, C., & **Wen, Y**. _Weakly Supervised Learning of Recurrent Residual ConvNets for Pancreas Segmentation in CT Scans._ ```markdown `In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)` ``` (pp. 1409-1415). (2019, November) [[Google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Weakly+Supervised+Learning+of+Recurrent+Residual+ConvNets+for+Pancreas+Segmentation+in+CT+Scans&btnG=)
+- Zeng, H., Hu, X., Chen, L., Zhou, C., & **Wen, Y**. _Weakly Supervised Learning of Recurrent Residual ConvNets for Pancreas Segmentation in CT Scans._ ```In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)``` (pp. 1409-1415). (2019, November) [[Google]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Weakly+Supervised+Learning+of+Recurrent+Residual+ConvNets+for+Pancreas+Segmentation+in+CT+Scans&btnG=)
 
 ### AI Application
 
